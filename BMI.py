@@ -3,8 +3,8 @@ print
 print("Scripted by HMAndro")
 print
 print
-Weight=int(input("Enter weight in KG"));
-Height=int(input("Enter height in Centimeter"));
+Weight=float(input("Enter weight in KG"));
+Height=float(input("Enter height in Centimeter"));
 BMI=Weight/Height**2*10000;
 print("Your BMI is",BMI,".");
 print
