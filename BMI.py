@@ -1,6 +1,6 @@
 print("BMI Calculator")
 print
-print("Scripted by Hritabhas Modak")
+print("Scripted by HMAndro")
 print
 print
 Weight=int(input("Enter weight in KG"));
